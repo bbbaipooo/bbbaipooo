@@ -1,7 +1,7 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://media.tenor.com/qen7dlo-K6oAAAAC/fox.gif" height="300"/>
-</div>
-
+</div>-->
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/KHh7jLrG6gIXBTnxsp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-art-ioana-sopov-visual-development-KHh7jLrG6gIXBTnxsp">via GIPHY</a></p>
 ### Hi there 👋
 
 <!--
