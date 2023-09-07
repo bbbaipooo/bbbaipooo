@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://giphy.com/embed/KHh7jLrG6gIXBTnxsp" height="300"/>
+  <img src="https://giphy.com/embed/KHh7jLrG6gIXBTnxsp/giphy.gif" height="300"/>
 </div>
-
 ### Hi there 👋
 
 <!--
