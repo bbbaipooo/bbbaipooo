@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="24544800" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fox-gif-24544800">Fox GIF</a>from <a href="https://tenor.com/search/fox-gifs">Fox GIFs</a></div> 
+<div align="center">
+  <img src="https://media.tenor.com/qen7dlo-K6oAAAAC/fox.gif" height="300"/>
+</div>
 
 ### Hi there 👋
 
