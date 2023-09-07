@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://giphy.com/embed/KHh7jLrG6gIXBTnxsp/giphy.gif" height="300"/>
-</div>
-### Hi there 👋
+
 
 <!--
 **bbbaipooo/bbbaipooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
